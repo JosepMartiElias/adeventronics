@@ -2,7 +2,7 @@ site_name: Adventronics Calendar
 site_description: Adventronics Calendar
 site_author: Future Learning Unit (FLU)
 repo_name: 'Adventronics Calendar'
-repo_url: 'https://gitlab.com/fablabbcn-projects/electronics/barduino'
+repo_url: 'https://github.com/JosepMartiElias/adventronics/'
 
 nav:
   - Home:
