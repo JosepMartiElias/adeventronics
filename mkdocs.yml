@@ -7,6 +7,12 @@ repo_url: 'https://gitlab.com/fablabbcn-projects/electronics/barduino'
 nav:
   - Home:
     - index.md
+  - How to particpate?:
+    - howto.md
+  - Solutions:
+    - Day 1: solutions/01/01.md
+  - Solution template:
+    - template.md
 
 
 theme: 

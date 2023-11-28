@@ -4,9 +4,12 @@ hide:
   - toc
 ---
 
-# 
+# Adventronics Calendar Challenge
+
+Missing introduction here.
 
 !!! note annotate "1. Light me up! :light_bulb: (1)"
+    [Check the solution](solutions/01/01.md)
 1.  Maybe you can blink the Barduino LED
 
 !!! tip annotate "2. Say cheeeeese! :cheese: (1)"
